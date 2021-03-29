@@ -1,3 +1,3 @@
-# Progrmas_py
+# Programs_py
 
-Este es el repositorio para mis programas de Python.
+Contiene mis primeros programas con Python 💚.
