@@ -4,6 +4,7 @@ def run():
     numerorandom = random.randint(1, 100)
     numeroelegido = int(input("Introduce un numero: "))
     vidas = 5
+
     while numerorandom != numeroelegido :
         if numerorandom < numeroelegido : 
             print("Elige un numero mas pequeño.")

@@ -1,4 +1,4 @@
-def prim(n):
+def primes(n):
     if n == 1:
         return False
     m = int(n / 2)
@@ -8,7 +8,8 @@ def prim(n):
     return True
 
 num = int(input('Ingrese el número a evaluar: '))
-ok = prim(num)
+ok = primes(num)
+
 if ok:
     print('Es primo')
 else:

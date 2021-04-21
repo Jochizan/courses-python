@@ -4,7 +4,6 @@ def divide():
 
         op2 = float(input("Introduce el segundo número: "))
 
-    
         print("La división es: " + str(op1/op2))
 
     except ValueError:
@@ -15,5 +14,6 @@ def divide():
 
     finally:
         print("Cálculo finalizado")
-    
+
+
 divide()
