@@ -1,9 +1,13 @@
 *.zip
 *.exe
 *.tar.gz
+
 /programs-python/dist/
 /programs-python/__pycache__/
 /programs-python/modules/__pycache__/
 /programs-python/calcule/__pycache__/
 /programs-python/config/
 /programs-python/grafics/mind_blown.gif
+
+
+__pycache__
